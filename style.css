@@ -11,7 +11,7 @@
   --discord: #5865F2;
 }
 * {margin: 0; padding: 0;}
-body {background: var(--black); display:none; background-image: url(""); -webkit-background-size:  cover;-moz-background-size:  cover;-o-background-size:  cover;background-size:  100%;background-position:  center;-webkit-background-size:  cover;-moz-background-size:  cover;-o-background-size:  cover; background-size:  cover ;  height: 100vh;}
+body {background: var(--black); background-image: url(""); -webkit-background-size:  cover;-moz-background-size:  cover;-o-background-size:  cover;background-size:  100%;background-position:  center;-webkit-background-size:  cover;-moz-background-size:  cover;-o-background-size:  cover; background-size:  cover ;  height: 100vh;}
 a {text-decoration: none;} li {list-style: none;} br {user-select: none;}
 input {transition: .3s; border:2px solid #c4cad3; padding: 8px 15px 8px 10px; width: 275px; border-radius: 5px; font-size: 15px; margin-bottom: 15px; outline: none;}
 input:focus {border:2px solid #4f7dff;}
